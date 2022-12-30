@@ -10,11 +10,17 @@ public class Q10 {
      * monkeyTrouble(false, false) → true
      * monkeyTrouble(true, false) → false
      */
-    public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
+    boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
         if ((aSmile && bSmile) || (!aSmile && !bSmile))
             return true;
         else
             return false;
+
+    }
+
+    public static void main(String[] args) {
+        Q10 question = new Q10();
+        System.out.println(question.monkeyTrouble(true,false));
 
     }
 }
