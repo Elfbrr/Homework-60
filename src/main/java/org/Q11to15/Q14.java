@@ -1,4 +1,4 @@
-package org.Q11to20;
+package org.Q11to15;
 
 public class Q14 {
     /**14-Given an int n, return true if it is within 10 of 100 or 200.
