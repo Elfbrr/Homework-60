@@ -1,6 +1,4 @@
-package org.Q11to20;
-
-import java.util.Scanner;
+package org.Q11to15;
 
 public class Q11 {
 

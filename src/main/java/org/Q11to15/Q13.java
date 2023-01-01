@@ -1,4 +1,4 @@
-package org.Q11to20;
+package org.Q11to15;
 
 public class Q13 {
     /**13- Given 2 ints, a and b, return true if one if them is 10 or if their sum is 10.

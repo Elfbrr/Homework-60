@@ -1,4 +1,4 @@
-package org.Q11to20;
+package org.Q11to15;
 
 public class Q15 {
     /**15-Given 2 int values, return true if one is negative and one is positive.
