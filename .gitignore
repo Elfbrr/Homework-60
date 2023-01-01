@@ -1,2 +1,5 @@
 /.idea/
 /target/
+/test/
+src/test/java/org/Q15test
+src/test/java/org/Q15test/Q15Test.java
